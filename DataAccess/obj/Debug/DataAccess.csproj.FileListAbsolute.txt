@@ -1,0 +1,69 @@
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\DataAccess.dll
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\DataAccess.pdb
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\Core.dll
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\Core.pdb
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\obj\Debug\DataAccess.dll
+F:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\DataAccess.dll
+E:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\Core.dll
+E:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\bin\Debug\Core.pdb
+E:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\obj\Debug\DataAccess.dll
+E:\Project_SellPhone\QuanLyNhaHang\TestDangNhap\DataAccess\obj\Debug\DataAccess.pdb
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\DataAccess.dll
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\DataAccess.pdb
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\Core.dll
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\Core.pdb
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\obj\Debug\DataAccess.dll
+E:\Project_SellPhone\QuanLyNhaHang\Project\TestDangNhap\DataAccess\obj\Debug\DataAccess.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\DataAccess.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\DataAccess.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\Core.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\bin\Debug\Core.pdb
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\obj\Debug\DataAccess.dll
+D:\QuanLyNhaHang\QuanLyNhaHang\Project\TestDangNhap\DataAccess\obj\Debug\DataAccess.pdb
+F:\Desktop\QLNhaHang\DataAccess\bin\Debug\DataAccess.dll
+F:\Desktop\QLNhaHang\DataAccess\bin\Debug\DataAccess.pdb
+F:\Desktop\QLNhaHang\DataAccess\bin\Debug\Core.dll
+F:\Desktop\QLNhaHang\DataAccess\bin\Debug\Core.pdb
+F:\Desktop\QLNhaHang\DataAccess\obj\Debug\DataAccess.dll
+F:\Desktop\QLNhaHang\DataAccess\obj\Debug\DataAccess.pdb
+F:\Desktop\QLNhaHang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\bin\Debug\DataAccess.dll
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\bin\Debug\DataAccess.pdb
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\bin\Debug\Core.dll
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\bin\Debug\Core.pdb
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\obj\Debug\DataAccess.dll
+I:\New folder (4)\Desktop\QLNhaHang\DataAccess\obj\Debug\DataAccess.pdb
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\bin\Debug\DataAccess.dll
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\bin\Debug\DataAccess.pdb
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\bin\Debug\Core.dll
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\bin\Debug\Core.pdb
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\obj\Debug\DataAccess.dll
+D:\Users\Administrator\Desktop\QLNH\QLNH\QLNhaHang\DataAccess\obj\Debug\DataAccess.pdb
+I:\Desktop\QLNH\QLNhaHang\DataAccess\bin\Debug\DataAccess.dll
+I:\Desktop\QLNH\QLNhaHang\DataAccess\bin\Debug\DataAccess.pdb
+I:\Desktop\QLNH\QLNhaHang\DataAccess\bin\Debug\Core.dll
+I:\Desktop\QLNH\QLNhaHang\DataAccess\bin\Debug\Core.pdb
+I:\Desktop\QLNH\QLNhaHang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+I:\Desktop\QLNH\QLNhaHang\DataAccess\obj\Debug\DataAccess.dll
+I:\Desktop\QLNH\QLNhaHang\DataAccess\obj\Debug\DataAccess.pdb
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\bin\Debug\DataAccess.dll
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\bin\Debug\DataAccess.pdb
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\bin\Debug\Core.dll
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\bin\Debug\Core.pdb
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\obj\Debug\DataAccess.dll
+D:\Users\Administrator\Desktop\QLNhaHang_30-3-2018_Final\QLNhaHang\DataAccess\obj\Debug\DataAccess.pdb
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\bin\Debug\DataAccess.dll
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\bin\Debug\DataAccess.pdb
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\bin\Debug\Core.dll
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\bin\Debug\Core.pdb
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\obj\Debug\DataAccess.dll
+F:\Studies\Công nghệ phầm mềm\QuanLyNhaHang\QuanLyNhaHang\Project\QLNhaHang 8-5-2018\DataAccess\obj\Debug\DataAccess.pdb

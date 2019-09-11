@@ -1,0 +1,586 @@
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmChonMon.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmMonAn.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBan.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmChiTietChonMon.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmKhachHang.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmChiTietHoaDon.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmChucNang.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmHoaDon.resources
+C:\Users\Administrator\Desktop\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmPhanQuyen.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+E:\Khoa Luan Tot Nghiep\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.compiled
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.cache
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.compiled
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBackup.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmRestore.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.DoiMatKhau.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThongTinTK.resources
+F:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormTemp.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.DoiMatKhau.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormTemp.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBackup.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmRestore.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThongTinTK.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.cache
+H:\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.compiled
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.DoiMatKhau.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormTemp.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBackup.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmRestore.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThongTinTK.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.cache
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.compiled
+F:\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTongHop.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\ResolveAssemblyReference.cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.DoiMatKhau.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormTemp.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBackup.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBaoCaoTheoMatHang.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTongHop.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmRestore.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThongTinTK.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.cache
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\RdlCompile.compiled
+F:\Studies Dick\Khoa luan Do an TTNN\K32DLA\QuanLyCaPhe 14.02.2014\QuanLyCaPhe\21_12_2013\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBaoCaoTongHop.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csprojResolveAssemblyReference.cache
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.DoiMatKhau.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormTemp.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBackup.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBaoCaoTheoMatHang.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBaoCaoTongHop.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTongHop.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmRestore.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThongTinTK.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csprojFakesResolveAssemblyReference.cache
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.pdb
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Data.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Images.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.SpellChecker.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Extensions.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.Extensions.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraSpellChecker.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\EnvDTE.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataTools.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraReports.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\stdole.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.DataAccess.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.CodeParser.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Xpo.v17.2.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DataAccess.pdb
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Data.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.Extensions.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Extensions.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraSpellChecker.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.SpellChecker.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\EnvDTE.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraReports.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.DataAccess.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\DevExpress.Xpo.v17.2.xml
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraSpellChecker.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraSpellChecker.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+E:\Information Techonogy\Software Engineering\Software Engineering\Hoc tap\QuanLyCaPhe\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+F:\Desktop\QLCaPheProject\QLCaPheProject\bin\Debug\QLCaPheProject.exe.config
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.pdb
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csprojFakesResolveAssemblyReference.cache
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csprojResolveAssemblyReference.cache
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Ban.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.DoiMatKhau.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormMain.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FormTemp.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmBackup.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBan.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBaoCaoTheoMatHang.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmBaoCaoTongHop.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietChonMon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChiTietHoaDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonMon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChonThucDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChucNang.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmChuyenBan.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDangNhap.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoMatHang.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTheoNgay.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmDTTongHop.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmGioiThieu.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmHoaDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmInHoaDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhachHang.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmKhuVuc.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmMonAn.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhanVien.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmNhomThucDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmPhanQuyen.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmRestore.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmTatToan.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThemThucDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThongTinTK.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.frmThucDon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmThuNgan.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmXemThongTin.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.Properties.Resources.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.FrmLoaiMon.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.TableButton.resources
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.csproj.GenerateResource.Cache
+F:\Desktop\QLCaPheProject\QLCaPheProject\obj\Debug\QLCaPheProject.exe.licenses
